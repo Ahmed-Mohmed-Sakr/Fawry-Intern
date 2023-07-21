@@ -23,7 +23,6 @@ public class Bank {
        if(isValidAccountNumber(accountNumber))
            accounts.get(accountNumber).deposit(amount);
     }
-
     public void withdraw(int accountNumber, double amount) throws Exception
     {
         if(isValidAccountNumber(accountNumber))
