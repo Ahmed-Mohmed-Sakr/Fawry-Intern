@@ -3,8 +3,8 @@
 - ### OOP
     
     - #### Tasks 
-        - [Bank System](OOP_Task1)
-        - [Online Shop](OOP_Task2)
+        - [Bank System](OOP_Task1/README.md)
+        - [Online Shop](OOP_Task2/README.md)
     - #### Resources
         - [java-oops-concepts](https://www.javatpoint.com/java-oops-concepts)
 
