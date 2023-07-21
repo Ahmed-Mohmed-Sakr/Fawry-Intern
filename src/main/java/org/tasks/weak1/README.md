@@ -3,15 +3,20 @@
 - ### OOP
     
     - #### Tasks 
-        - [Bank System](OOP_Task1/README.md)
-        - [Online Shop](OOP_Task2/README.md)
+        - [Bank System](OOP_Task1)
+        - [Online Shop](OOP_Task2)
     - #### Resources
         - [java-oops-concepts](https://www.javatpoint.com/java-oops-concepts)
 
-- ### Design Principles
-  - #### Resources
-      - [Design_Principles](Design_Principles)
+[//]: # (- ### Design Principles)
 
-- ### Git Control Version
-    - #### Resources
-        - [Git_Control_Version](Git_Controle_Version)
+[//]: # (  - #### Resources)
+
+[//]: # (      - [Design_Principles]&#40;Design_Principles&#41;)
+
+[//]: # ()
+[//]: # (- ### Git Control Version)
+
+[//]: # (    - #### Resources)
+
+[//]: # (        - [Git_Control_Version]&#40;Git_Controle_Version&#41;)
