@@ -14,9 +14,12 @@
 
       - [Design_Principles](Design_Principles)
 
-[//]: # ()
-[//]: # (- ### Git Control Version)
 
-[//]: # (    - #### Resources)
+- ### Git Version Control
 
-[//]: # (        - [Git_Control_Version]&#40;Git_Controle_Version&#41;)
+    - #### Resources
+
+        - [Git_Control_Version](Git_Controle_Version)
+
+### Contact
+Ahmed Sakr | [@Ahmed-Mohmed-Sakr](https://github.com/Ahmed-Mohmed-Sakr)

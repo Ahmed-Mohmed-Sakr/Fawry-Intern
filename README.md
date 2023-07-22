@@ -6,7 +6,7 @@
 
 ## Intern Content
 
-- [Weak1](src/main/java/org/tasks/weak1) : OOP, Design Principles, Git Control Version.
+- [Weak1](src/main/java/org/tasks/weak1) : OOP, Design Principles, Git Version Control.
 - loading...
 ----
 
