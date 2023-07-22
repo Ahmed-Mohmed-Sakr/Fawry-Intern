@@ -8,11 +8,11 @@
     - #### Resources
         - [java-oops-concepts](https://www.javatpoint.com/java-oops-concepts)
 
-[//]: # (- ### Design Principles)
+- ### Design Principles
 
-[//]: # (  - #### Resources)
+  - #### Resources
 
-[//]: # (      - [Design_Principles]&#40;Design_Principles&#41;)
+      - [Design_Principles](Design_Principles)
 
 [//]: # ()
 [//]: # (- ### Git Control Version)
