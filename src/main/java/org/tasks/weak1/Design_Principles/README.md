@@ -57,21 +57,19 @@
         - And as you see above 👆👆, The tragedy of the rigid and fragile system.
         - We must make many changes to integrate the new feature (rigidity), and those changes have a tendency to produce bugs within the wider system (fragility).
     - **Immobility** (The design is hard to reuse)
-     <br>
-    <img src="https://images.pexels.com/photos/3110502/pexels-photo-3110502.jpeg?auto=compress&cs=tinysrgb&h=150">
+        - <p> <img src="https://images.pexels.com/photos/3110502/pexels-photo-3110502.jpeg?auto=compress&cs=tinysrgb&h=150"> </p>
         - it's hard to extract features from code to reuse as image above👆.
         - This is the inability to reuse code in other parts of your project because the code in question has too much baggage.
         - Even if the software you wish to copy is very similar to the new software you need, the time it would take to clean up the code outweighs the time it would take to build it from the ground up. 
     - **Viscosity** (It is hard to do the right thing)
-    <br>
-    <img src="https://images.pexels.com/photos/302163/pexels-photo-302163.jpeg?auto=compress&cs=tinysrgb&h=150">
-      - Viscosity can come in two forms:
-        1. viscosity of the design.
-            - When the design preserving methods are harder to employ than the hacks (hacks means: make unstructured solutions),
-            - then the viscosity of the design is high.
-        2. viscosity of the environment.
-            - when the development environment is slow and inefficient.
-            - For instance, if the process of checking in a few files takes hours.
+        - <p><img src="https://images.pexels.com/photos/302163/pexels-photo-302163.jpeg?auto=compress&cs=tinysrgb&h=150"></p>
+        - Viscosity can come in two forms:
+          1. viscosity of the design.
+              - When the design preserving methods are harder to employ than the hacks (hacks means: make unstructured solutions),
+              - then the viscosity of the design is high.
+          2. viscosity of the environment.
+              - when the development environment is slow and inefficient.
+              - For instance, if the process of checking in a few files takes hours.
 
 ---
 > While it is obviously the goal of any good software engineer to write clean clear code, ever-changing project goals and requirements can often be pointed to as the cause of the above code smells. But, it is important to note that the theme running through many of these code smells is the use of improper dependencies. To help manage dependencies, Martin has identified SOLID design patterns, outlined below.
