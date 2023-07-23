@@ -1,4 +1,4 @@
-package org.tasks.weak1.OOP_Task2;
+package org.tasks.week1.OOP_Task2;
 
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-## Weak1 - tasks and material
+## Week1 - tasks and material
 
 - ### OOP
     

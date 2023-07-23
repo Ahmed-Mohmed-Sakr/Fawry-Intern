@@ -1,4 +1,4 @@
-package org.tasks.weak1.OOP_Task1;
+package org.tasks.week1.OOP_Task1;
 
 public class SavingsAccount extends Account{
 
