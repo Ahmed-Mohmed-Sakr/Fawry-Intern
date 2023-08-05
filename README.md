@@ -7,6 +7,8 @@
 ## Intern Content
 
 - [Week1](src/main/java/org/tasks/week1) : OOP, Design Principles, Git Version Control.
+- [Week2](src/main/java/org/tasks/week2) : Collections.
+- [Week3](src/main/java/org/tasks/week2) : Design Pattern, RDBMS, REST API Design.
 - loading...
 ----
 
