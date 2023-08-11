@@ -1,6 +1,6 @@
 # Unit Testing
 
-> JUnit, AssertJ, Mockito
+> JUnit, AssertJ, Mockito, JaCoCo
 
 ## About
 
