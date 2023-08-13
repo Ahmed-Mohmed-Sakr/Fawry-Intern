@@ -3,7 +3,7 @@
 > implemented using JUnit ,AssertJ and Mockito
 
 #### Solution
-[StoreCompleteTest](StoreCompleteTest.java)
+[StoreCompleteTest](../../../../../../../../test/java/org/tasks/week4/Unit_Testing/Using_JUnit_Mock_03/store/StoreCompleteTest.java)
 
 #### Code Coverage
 

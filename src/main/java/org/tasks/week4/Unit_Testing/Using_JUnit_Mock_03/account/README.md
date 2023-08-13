@@ -3,7 +3,7 @@
 > implemented using JUnit and AssertJ
 
 #### Solution
-[AccountManagerImplTest](AccountManagerImplTest.java)
+[AccountManagerImplTest](../../../../../../../../test/java/org/tasks/week4/Unit_Testing/Using_JUnit_Mock_03/account/AccountManagerImplTest.java)
 
 #### Code Coverage
 
