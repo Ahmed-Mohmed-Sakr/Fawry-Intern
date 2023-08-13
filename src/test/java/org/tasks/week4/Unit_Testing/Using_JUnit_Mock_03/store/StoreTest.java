@@ -2,7 +2,8 @@ package org.tasks.week4.Unit_Testing.Using_JUnit_Mock_03.store;
 
 import org.tasks.week4.Unit_Testing.Using_JUnit_Mock_03.account.AccountManager;
 import org.tasks.week4.Unit_Testing.Using_JUnit_Mock_03.account.Customer;
-import org.junit.jupiter.api.Assertions;
+//import org.junit.jupiter.api.Assertions;
+import static org.assertj.core.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 public class StoreTest {
@@ -21,14 +22,14 @@ public class StoreTest {
         store.buy(product, customer);
 
         // Assert
-        Assertions.assertEquals(9, product.getQuantity());
+        assertThat(product.getQuantity()).isEqualTo(9);
     }
 
     static class AlwaysErrorAccountManager implements AccountManager {
 
         @Override
-        public void deposit(Customer customer, int amount) {
-
+        public String deposit(Customer customer, int amount) {
+            return "lol";
         }
 
         @Override
@@ -40,8 +41,8 @@ public class StoreTest {
     static class AlwaysSuccessAccountManager implements AccountManager {
 
         @Override
-        public void deposit(Customer customer, int amount) {
-
+        public String deposit(Customer customer, int amount) {
+            return "lolo";
         }
 
         @Override

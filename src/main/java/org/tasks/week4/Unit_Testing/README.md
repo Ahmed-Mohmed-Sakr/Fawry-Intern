@@ -68,6 +68,7 @@
     - [junit5-docs](https://junit.org/junit5/docs/current/user-guide/)
     - [junit-5](https://www.baeldung.com/junit-5)
     - [tutorialspoint-junit](https://www.tutorialspoint.com/junit/index.htm)
+    - [freeCodeCamp](https://www.youtube.com/watch?v=flpmSXVTqBI&ab_channel=freeCodeCamp.org)
 
 - ### Code coverage (JaCoCo):
   - Code coverage is a software metric used to measure how many lines of our code are executed during automated tests.
@@ -110,7 +111,7 @@
 
 ---
 ### Resources:
-
+- [JUnit-AssertJ-Mockito](https://youtu.be/Geq60OVyBPg)
 - [levels-of-testing](https://www.javatpoint.com/levels-of-testing).
 - [java-unit-testing](https://www.freecodecamp.org/news/java-unit-testing/).
 - [jacoco](https://www.eclemma.org/jacoco/trunk/doc/index.html).
