@@ -10,7 +10,7 @@
 
 - ### Design Pattern
     - #### Resources
-        - [Design Patterns](Design_Pattern)
+        - [Design Patterns](Structural_Design_Pattern)
 
 ---
 

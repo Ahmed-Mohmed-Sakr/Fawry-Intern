@@ -56,6 +56,7 @@ public class StoreCompleteTest {
         assertThatThrownBy(() -> myStore.buy(product, customer))
                 .isInstanceOf(RuntimeException.class)
                 .hasMessage(paymentFailureMessage);
+
         assertThat(product.getQuantity()).isEqualTo(10);
     }
 }

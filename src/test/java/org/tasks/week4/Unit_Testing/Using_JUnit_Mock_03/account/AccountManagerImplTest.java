@@ -48,6 +48,7 @@ public class AccountManagerImplTest {
     void testWithdrawWithPositiveAmount() {
 
         accountManager.deposit(customer,200);
+
         String result = accountManager.withdraw(customer,148);
 
         assertThat(customer.getBalance()).isEqualTo(52);

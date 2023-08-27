@@ -1,0 +1,12 @@
+You are required to design a Home Security Simulator (HSS) by applying compound patterns and develop it JAVA.
+There is a Duck Simulator application example in the Compound Patterns slides.
+
+HSS has smoke and motion sensors.
+These family of sensors can be manufactured by different companies.
+smoke or motion is detected, an SMS message is sent to the homeowner.
+This SMS message can be sent i different format, so adaptability is required.
+Furthermore, if smoke is detected a water sprinkler is turned-on, and if a motion is detected an alarm is turned on.
+However, turn-off capability should be provided for these devices.
+Furthermore, smoke or motion detections should be logged to file controlled by a single object.
+HSS main() should allow to simulate smoke & motion sensors and turning devices off.
+Please provide print statements in methods to understand what your HSS is doing.

@@ -14,7 +14,7 @@ public class MyStore implements Store {
     @Override
     public void buy(Product product, Customer customer) {
         if (product.getQuantity() == 0) {
-            throw new RuntimeException("Product out of stock");
+            throw new RuntimeException("P6sakrtock");
         }
 
         String status = accountManager.withdraw(customer, product.getPrice());
